@@ -224,3 +224,9 @@ footer a { color: #ffb28f; font-weight: 800; }
   .cyber-marks { opacity: .1; }
   .cyber-marks span { font-size: 4.5rem !important; }
 }
+
+.hero-contest { margin-top: 27px; padding: 18px 21px; border-left: 4px solid var(--orange); border-radius: 0 14px 14px 0; background: #fff3eb; }
+.hero-contest span { color: var(--orange); font-size: .82rem; font-weight: 850; text-transform: uppercase; letter-spacing: .04em; }
+.hero-contest p { margin: 8px 0; color: var(--blue-dark); line-height: 1.45; }
+.hero-contest a { color: var(--blue-dark); font-weight: 800; text-decoration: underline; text-underline-offset: 3px; }
+#concurso-videos { scroll-margin-top: 90px; }
